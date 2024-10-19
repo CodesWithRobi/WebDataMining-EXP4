@@ -46,7 +46,8 @@ for group, condition in age_groups.items():
 
 ### Output:
 
-![output](https://github.com/user-attachments/assets/622a9f67-dd5c-4004-956c-f8fa0e1e84ff)
+![Screenshot from 2024-10-19 08-17-16](https://github.com/user-attachments/assets/a9606f4c-39bd-478c-9d03-525d5f6378e6)
+
 
 
 ### Visualization:
