@@ -4,7 +4,7 @@
 
 ## Experiment-04: Implementation of Cluster and Visitor Segmentation for Navigation patterns
 
-## DATE: 18/10/24
+## DATE: 19/10/24
 
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 
@@ -45,6 +45,9 @@ for group, condition in age_groups.items():
 ```
 
 ### Output:
+
+![output](https://github.com/user-attachments/assets/622a9f67-dd5c-4004-956c-f8fa0e1e84ff)
+
 
 ### Visualization:
 
